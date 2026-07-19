@@ -68,12 +68,29 @@ Features
 - Cross Browser Testing
 - Pytest Framework
 
-## 📊 GitHub Statistics
+## 💼 Core Skills
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=umashankarm15071993-spec&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umashankarm15071993-spec&layout=compact&theme=tokyonight"/>
-</p>
+✔ Python
+
+✔ Selenium WebDriver
+
+✔ Pytest
+
+✔ Page Object Model (POM)
+
+✔ Data Driven Testing (DDT)
+
+✔ Allure Reports
+
+✔ HTML Reports
+
+✔ Git & GitHub
+
+✔ SQL
+
+✔ API Testing (Learning)
+
+✔ Playwright (Learning)
 
 ## 🔥 GitHub Streak
 
