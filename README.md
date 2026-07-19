@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/umashankarm15071993-spec/umashankarm15071993-spec/main/uma_Banner.png" width="100%" alt="Uma Shankar Banner">
+</p>
+
 # Hi 👋, I'm Uma Shankar
 
 ## QA Automation Engineer | Python | Selenium | Pytest
