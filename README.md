@@ -58,8 +58,8 @@ Features
 
 - ## 📫 Connect with me
 
-- LinkedIn: (https://www.linkedin.com/in/umashankar-m-a46042371)
-- Email: (umashankarm15071993@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/umashankar-m-a46042371
+- Email: umashankarm15071993@gmail.com
 
 ---
 
